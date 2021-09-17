@@ -14,6 +14,13 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+*Crear lista de numeros*
+1. uno
+2. dos
+3. tres
+
+![Imagen de Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 - Bulleted
 - List
@@ -25,7 +32,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+_agregar video de la serie Seinfeld_
+[video Seinfeld](https://www.youtube.com/watch?v=uFtWaibtqao) 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
